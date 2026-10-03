@@ -4,7 +4,7 @@ Here be dragons or something.
 
 Minecraft redstone computer project. Repo contains schematics for major builds mainly for abstraction as well as the fully finished computer(not finished yet lol)
 
-## Naming convention for the files
+## Naming convention
 
 - name.litematic --> Optimized or 'canonical' design made by the community. I did not build them myself. Used in abstraction.
 - name PoC.litematic --> My designs. They kinda suck but thats the point. I make inefficient builds then once I understand them enough to abstract, I use the optimized community builds.
