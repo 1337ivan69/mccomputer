@@ -1,0 +1,21 @@
+{
+  "survivalReach": 32,
+  "survivalMaxBlocksPlaced": 2000,
+  "survivalMaxBlocksPerAxis": 64,
+  "survivalMaxMirrorSize": 256,
+  "survivalMaxArrayCount": 64,
+  "survivalMaxArrayOffset": 64,
+  "survivalAllowBreaking": true,
+  "survivalOnlyPlacedBlocks": true,
+  "survivalMaxHardness": -1.0,
+  "survivalRequireTools": false,
+  "survivalUseDurability": false,
+  "showWelcomeMessage": true,
+  "showBuildModeHint": true,
+  "creativeReach": 200,
+  "creativeMaxBlocksPlaced": 50000,
+  "creativeMaxBlocksPerAxis": 1000,
+  "creativeMaxMirrorSize": 256,
+  "creativeMaxArrayCount": 256,
+  "creativeMaxArrayOffset": 256
+}
